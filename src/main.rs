@@ -1,5 +1,5 @@
-const STARTING_MISSILES: i32 = 8;
-const READY: i32 = 2;
+const STARTING_MISSILES: i8 = 8;
+const READY: i8 = 2;
 
 fn main() {
     let missiles = STARTING_MISSILES;
